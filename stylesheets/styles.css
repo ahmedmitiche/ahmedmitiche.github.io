@@ -5,6 +5,16 @@ body {
   color:#595959;
   font-weight:400;
 }
+#twitter {
+  color:rgb(94, 163, 253);
+}
+#twitter:hover {
+  color:rgb(0, 81, 255);
+}
+#name{
+  font-weight: bold;
+  color:#222;
+}
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
@@ -277,13 +287,3 @@ footer {
   /* text-align: center; */
   vertical-align: middle;
 }
-#twitter {
-  color:rgb(94, 163, 253);
-}
-#twitter:hover {
-  color:rgb(0, 81, 255);
-}
-#name{
-  font-weight: bold;
-  color:#222;
-;}
