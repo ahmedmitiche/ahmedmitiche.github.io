@@ -277,3 +277,13 @@ footer {
   /* text-align: center; */
   vertical-align: middle;
 }
+#twitter {
+  color:rgb(94, 163, 253);
+}
+#twitter:hover {
+  color:rgb(0, 81, 255);
+}
+#name{
+  font-weight: bold;
+  color:#222;
+;}
